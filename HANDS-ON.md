@@ -150,7 +150,7 @@ To start with let us create a new directory in `dev_root/examples` with our name
     cd your_name
     pwd
 
-`pwd` should print `/home/switchml/dev_root/benchmarks/your_name`
+`pwd` should print `/home/switchml/dev_root/examples/your_name`
 
 Now we will create our `main.cc` file using `vim main.cc` and start writing our own application.  Copy the following template over to your new `main.cc` file as a starting point. ( You may need to copy the code to a notepad first to get rid of any formatting).
 ```c++=
